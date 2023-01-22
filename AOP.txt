@@ -1,0 +1,17 @@
+1. Spring AOP
+    1.1 @Before
+    1.2 Pointcut expression 
+    1.3 @AfterReturning
+    1.4 JoinPoint
+    1.5 @AfterThrowing
+    1.6 @After
+    1.7 @Pointcut
+    1.8 @Order
+    1.9 @Around
+    1.10 ProceedingJoinPoint
+
+2. CI/CD -- Continious Integration, CD - continious delivery, CD - continious deployment
+
+
+
+     
